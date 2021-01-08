@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37306691432",
+    "project_id": "sign-in-flutter-demo-11233",
+    "storage_bucket": "sign-in-flutter-demo-11233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37306691432:android:dafeac11d82cfd234b70dd",
+        "android_client_info": {
+          "package_name": "com.github.alextifox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37306691432-1i1if469lad9n7p4kv9bhgdvlakmjemr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3f9_exbbdDjEng9hcpJRJ7k3GCj3P7es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37306691432-1i1if469lad9n7p4kv9bhgdvlakmjemr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
